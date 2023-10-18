@@ -1,0 +1,33 @@
+{
+	"Version": 3,
+	"Meta": {
+		"Duration": 1,
+		"Fps": 30.0,
+		"Loop": true,
+		"AreBeziersRestricted": true,
+		"CurveCount": 1,
+		"TotalSegmentCount": 3,
+		"TotalPointCount": 4,
+		"UserDataCount": 0,
+		"TotalUserDataSize": 0
+	},
+	"Curves": [
+		{
+			"Target": "Parameter",
+			"Id": "Parambookpaper",
+			"Segments": [
+				0,
+				-30,
+				0,
+				0.167,
+				-30,
+				0,
+				0.567,
+				0,
+				0,
+				1,
+				30
+			]
+		}
+	]
+}
